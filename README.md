@@ -13,6 +13,7 @@
 | **01** | **Архитектурный аудит и бенчмаркинг ЭВМ** | Win / Linux / macOS | *Текущий документ* | [`scripts/audit_*`](scripts/) |
 | **02** | **Администрирование пользователей и права доступа** | Win / Linux / macOS | **[USER_MANAGEMENT_LAB.md](USER_MANAGEMENT_LAB.md)** | [`scripts/user_management_*`](scripts/) |
 | 🚨 | **План «Б»: Выполнение без прав sudo / Администратора** | Браузер / Win / Linux | **[NO_SUDO_GUIDE.md](NO_SUDO_GUIDE.md)** | [`scripts/no_sudo_*`](scripts/) |
+| 📊 | **Критерии оценивания работы** | Все платформы | **[CRITERIA.md](CRITERIA.md)** | Шкала 10 баллов, дескрипторы |
 
 ---
 
